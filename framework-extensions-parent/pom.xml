@@ -27,7 +27,7 @@
         <junit.pioneer.version>2.2.0</junit.pioneer.version>
         <maven.surefire.plugin.version>3.3.0</maven.surefire.plugin.version>
         <sonar.coverage.jacoco.xmlReportPaths>
-            ${project.basedir}/../microservice-restclient-report-aggregate/target/site/jacoco-aggregate/jacoco.xml
+            ${project.basedir}/../framework-extensions-report-aggregate/target/site/jacoco-aggregate/jacoco.xml
         </sonar.coverage.jacoco.xmlReportPaths>
     </properties>
 
